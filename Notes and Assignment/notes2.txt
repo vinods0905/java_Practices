@@ -1,0 +1,49 @@
+scanner is a class in java.util package used for obtaining the input of the primitive type like int,char, and strings.
+it is the easiest way to read input in the java program though not very efficient
+To create an object of a java class we usually pass the the predefined object system in which represents the standard input string.
+we may pass of an obect of a class file if we want to read input of a file
+
+1. void  	 close() 		it is used to close the scanner
+2.pattern 	delimeter() 		it is used to get the pattern whcih the scanner class is currently using to match delimeter
+3.stream 	<matchResult> 		findall() it is used to find a stream of match result that match the provided pattern string
+4.string	findline()		it is used to find the next occurence of a pattern constructed from the specified string,ignoring delimeter
+5.string	findwithin Horizon()	it is used to find the next occurence of a pattern constructed form the specified string ignoring delimeter
+6.boolean 	hasNext()		it returns trud if this scanner has another token in its input
+7.boolean	hasNextBigDecimal()	it is used to check if the next token in this scannner input can be inteerpretted as a bing decimal using
+                                        the next bigDecimal()method or not
+8.boolean	hasNextBigInteger()	it is used to check if the next token in this scannner input can be inteerpretted as a bing decimal using
+                                        the next bigDecimal()method or not
+
+9.boolean	hasNextBoolean()	boolean '' Nextbig Boolean()
+10.boolean	hasNextByte()		it is used to check if the next token in this scanner input can be interpretted as a byte using the next bigDeimal()method
+11.boolean	hasNextfloat()		float next float as a
+12.boolean	hasNextdoublee()	it is used to check if the bigdecimal Nextbyte() method
+13.boolean	hasNexTINT()		int nextint()
+14.boolean	hasNextLine()		it is used to check if there is another line in the input of this scanner of not
+15.boolean	hasNextLong()		long  next longer
+16.boolean	hasNextshort()		short next short()
+17.IO Exception	io Exception()		it isused to get the IO Exception last thrown by this scanners readable
+18.locale	locale()		it is used to get a locale of the scanner class
+19.MatchResult	match()			it is used to get the match result of the last scanning operation performed by tis scanner
+20.string	next()			it is used to get the next complete token from the scanner which is in true	
+21.BigDecimal	nextBigDecimal()	it scnans the next token of the input as a big decimal
+22.Biginteger	nextBigInteger()	it scans the next token of the input a Biginteger
+23..boolean	nextBoolean()		it scans the next token of the input into a boolean vaue and return that value
+24.byte		nextByte()		IT scans the next token of ine input as a byte.
+25.double	nextDouble()		it scans the next token of the input as a double 	
+26.int 		nextInt()		It scans the next token of the input as integer
+27.float	nextFloat()		it scans the next token of the input as float
+28.String 	nextLine()		it is used to get the input string that was skipped of the scanner object
+29.long		nextLong()		it scans the the next token of the input as along
+30.short	nextShort()		it scans the next of the input as short
+31.int		radix()			it is used get the  default radix of the scanner use
+32.void		remove()		it is used when remove  operation  is not supported by this implementation theorem
+33.scanner	reset()			it is use to reset the scanner which is in use	
+34.Scanner	skip()			it ships input that mathches the  pattern "ignoring"delimeter
+35.Stream<string> tokens()		it is used to get a stream of dlemeter-seperted token fom the scanner objext which is in use
+36.string	toString()		it is used to ge ther string representation of scanner using
+37.Scanner	useDelimeter()		it is use to set the delimilin pattern of the scanner which is in use to the specified pattern
+38.Scanner	useLocale()		it isused ot sets this scanners locale object to the speified locale
+39.Scanner	useRadix()		It is used to set the default radix of the scanner which is in use to the specified radix
+
+		

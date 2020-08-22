@@ -1,0 +1,40 @@
+return_type funname()
+
+return Type
+---------
+void nthg return
+int
+char
+byte
+boolean
+String
+float
+
+1.with out return without arg
+void sum()
+{
+
+} 
+
+2.with return no arg
+int sum()
+char change()
+string compar()
+byte add()
+
+3.no return with arg
+
+void sum(int a,int b)
+{
+
+}
+void sum(int i)
+void add(float r,int j)
+
+
+4.with return arg
+
+int sum(int i,int j)
+char change(char c)
+
+

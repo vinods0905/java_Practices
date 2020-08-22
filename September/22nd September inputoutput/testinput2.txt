@@ -1,0 +1,1 @@
+it is the example of sequence input stream

@@ -1,0 +1,4 @@
+<html>
+<applet code="classname"width=300 height=100>
+</applet>
+</html>

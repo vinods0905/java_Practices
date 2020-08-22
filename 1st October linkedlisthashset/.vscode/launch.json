@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - hashsetexample",
+            "request": "launch",
+            "mainClass": "hashsetexample"
+        }
+    ]
+}
